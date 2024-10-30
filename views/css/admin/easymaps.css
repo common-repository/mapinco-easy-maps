@@ -1,0 +1,57 @@
+.easymaps_container{
+  overflow:hidden;
+}
+
+.easymaps_settings{
+  overflow:hidden;
+  background-color:white;
+  padding:20px;
+  margin:0 0 20px;
+	border: 1px solid #e5e5e5;
+	box-shadow: 0 1px 1px rgba(0,0,0,.04);  
+}
+
+
+.easymaps_markers{
+	float:left; width:45%;
+  background-color:white;
+  padding:20px;
+  margin:0 0 20px;	
+	border: 1px solid #e5e5e5;
+	box-shadow: 0 1px 1px rgba(0,0,0,.04);    
+}
+.easymaps_addmarker{
+	float:right; width:45%;
+  background-color:white;
+  padding:20px;
+  margin:0 0 20px;
+	border: 1px solid #e5e5e5;
+	box-shadow: 0 1px 1px rgba(0,0,0,.04);   	
+}
+
+.easymaps_content{
+  float:left; width:30%;
+}
+.easymaps_content input.regular-text{ max-width:100%; }
+.easymaps_content p:first-child{ margin-top:0;}
+.easymaps_content p:last-child{ margin-bottom:0;}
+.easymaps_view{
+  float:right; width:70%;
+}
+#easy_maps_map{
+  margin-left:20px;
+}
+.marker_block{
+	display:block;
+}
+.marker_block .button{
+	vertical-align:middle; margin:0;
+}
+
+#markers_table{ margin:0 0 20px; }
+#markers_table .col-name{ width:200px; }
+#markers_table .col-actions{ width:200px; }
+
+
+#mapinco_easymaps_map .marker_popup{ display:none; }
+

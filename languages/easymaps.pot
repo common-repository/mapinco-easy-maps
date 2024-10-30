@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mapinco Easymaps\n"
+"POT-Creation-Date: 2017-11-13 10:14+0100\n"
+"PO-Revision-Date: 2017-11-13 10:17+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: inc\n"
+"X-Poedit-SearchPathExcluded-1: mapinco_easymaps_admin.js\n"
+"X-Poedit-SearchPathExcluded-2: mapinco_easymaps_front.js\n"
+
+#: index.php:31
+msgid "Map deleted."
+msgstr "Carte supprimée."
+
+#: index.php:35
+msgid "Map added."
+msgstr "Carte ajoutée."
+
+#: index.php:39
+msgid "Map edited."
+msgstr "Carte modifiée."
+
+#: index.php:179
+msgid "Error!"
+msgstr "Erreur !"
+
+#: index.php:233 index.php:234
+msgid "Easy Maps"
+msgstr "Easy Maps"
+
+#: index.php:271 index.php:414 index.php:452
+msgid "Name"
+msgstr "Nom"
+
+#: index.php:272 index.php:409
+msgid "Markers"
+msgstr "Marqueurs"
+
+#: index.php:273
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: index.php:287 index.php:428 index.php:443
+msgid "Edit"
+msgstr "Modifier"
+
+#: index.php:293 index.php:429 index.php:444 index.php:475
+msgid "Delete"
+msgstr "Supprimer"
+
+#: index.php:302
+#, php-format
+msgid "No map yet ? <a href=\"%s\">Add your first one</a>"
+msgstr "Pas encore de carte ? <a href=\"%s\">Créer votre première</a>"
+
+#: index.php:338
+#, php-format
+msgid "To show the map, use the following shortcode: %s"
+msgstr "Pour afficher la carte, utiliser le shortcode suivant : %s"
+
+#: index.php:347
+msgid "Map title"
+msgstr "Titre de la carte"
+
+#: index.php:351
+msgid "Height"
+msgstr "Hauteur"
+
+#: index.php:355
+msgid "Basemap"
+msgstr "Fond de carte"
+
+#: index.php:369
+msgid "Zoom level"
+msgstr "Niveau de zoom"
+
+#: index.php:375
+msgid "Zoom control"
+msgstr "Contrôle de zoom"
+
+#: index.php:387
+msgid "Fullscreen"
+msgstr "Plein écran"
+
+#: index.php:415 index.php:456
+msgid "Address"
+msgstr "Adresse"
+
+#: index.php:448
+msgid "Marker"
+msgstr "Marqueur"
+
+#: index.php:462
+msgid "Save Marker"
+msgstr "Enregistrer le marqueur"
+
+#: index.php:474
+msgid "Save Map"
+msgstr "Enregistrer la carte"
